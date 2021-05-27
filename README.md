@@ -14,7 +14,7 @@ We try to operate by principles rather than by processes or rules.
 
 Examples of how these attitudes manifest in our day-to-day lives include:
 - No standups: no added value for our current team size
-- No unit tests: tests should make our and our customers' lives better; we're after practical bug prevention, not a code coverage metric
+- Ignoring code coverage: tests should make our and our customers' lives better; we're after practical bug prevention, not a magic number
 - One command deploys: changing code in production should be easy to do and easy to do right
 
 We expect all members of our team to be:

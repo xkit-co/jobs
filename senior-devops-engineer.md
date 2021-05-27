@@ -39,7 +39,7 @@ Our codebase is organized in a single repository. Our primary application is in 
 
 Almost all of our infrastructure is in AWS, primarily delivered through a few EC2 instances and RDS, although we do make some use of Elasticbeanstalk and Lambda.
 
-All of our infrastructure is deployed through Ansible, although we plan to migrate to Terraform over time. Our entire deployment is in a single command with zero downtime, and we're able to deploy an entire infrastructure stack into a new AWS account with the same command.
+We are huge proponents of Infrastructure-as-code. We believe that as much as possible of our operations should rely on written and reviewed code rather than ad hoc commands. All of our infrastructure is deployed through Ansible, although we plan to migrate to Terraform over time. Our entire deployment is in a single command with zero downtime, and we're able to deploy an entire infrastructure stack into a new AWS account with the same command.
 
 We expect this role to be responsible for maintaining the code that we use to deploy and repair infrastructure. We *do not* expect this role to be responsible for deploying and maintaining that same infrastructure. We have a deeply held belief that application developers write better code when they also deploy and maintain that code - we don't want code "thrown over the wall". That said, writing code to deploy infrastructure is quite different from writing application code, so we need someone on the team who is highly skilled in that area.
 

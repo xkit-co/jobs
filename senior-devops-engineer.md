@@ -64,4 +64,4 @@ What we look for:
 2. Submit relevant coding samples
 3. Video interview with our CEO
 
-That's it! Part of why we like contract arrangements is that can serve as an extended interview for both you and us. Interviews and other exercises are notoriously bad ways to evaluate candidates (and companies) and we think the best way is to just work together and see how it goes.
+That's it! Part of why we like contract arrangements is that they can serve as an extended interview for both you and us. Interviews and other exercises are notoriously bad ways to evaluate candidates (and companies) and we think the best way is to just work together and see how it goes.

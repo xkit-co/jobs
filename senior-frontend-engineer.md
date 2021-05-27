@@ -34,7 +34,7 @@ We hire almost exclusively through contracts like this, so if both you and we th
 
 We're hiring a Senior Front-end Engineer to help us deliver our new project.
 
-Our front-end stack is in Typescript with a significant portion focused on React. The back-end is written in Elixir and uses the Phoenix framework and a PostgreSQL database.
+Our front-end stack is in Typescript with a significant portion focused on React using the [Evergreen component library](https://evergreen.segment.com). The back-end is written in Elixir and uses the Phoenix framework and a PostgreSQL database.
 
 We have three separate front-end codebases:
 - [xkit.js](https://github.com/xkit-co/xkit.js), our open source client for Xkit
@@ -57,7 +57,7 @@ What we look for:
 - Strong written and spoken communication skills
 - Writes clean, easy to understand code
 - Highly productive: able to ship new features and refactors quickly
-- Good eye for design: we don't have a full-time designer, so this role will be responsible for a lot of the app's visual appearance
+- Good eye for design: we don't have a full-time designer, so this role will be responsible for a lot of the app's visual appearance, primarily by relying on [Evergreen](https://evergreen.segment.com) components
 - Customer oriented: thinks through features from the customers perspective and delivers with the customer in mind
 
 

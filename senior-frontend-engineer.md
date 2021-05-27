@@ -50,6 +50,7 @@ There are currently no other full time front-end engineers on the team, so this 
 - Native-level proficiency in spoken and written English
 - 6+ years as a professional software developer
 - Significant professional experience with React
+- Fully remote, but able to work 11am - 1pm PT most week days
 
 
 What we look for:

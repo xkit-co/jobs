@@ -25,11 +25,11 @@ We expect all members of our team to be:
 ## Open Positions
 
 [Senior Front-end Engineer](./senior-frontend-engineer.md)
-- Remote
+- Remote (But available 11am - 1pm PT most week days)
 - 4-8 week contract with possibility for full-time
 - 20-40 hours per week
 
 [Senior DevOps Engineer](./senior-devops-engineer.md)
-- Remote
+- Remote (But available 11am - 1pm PT most week days)
 - 4-8 week contract with possibility for full-time
 - 20 hours per week

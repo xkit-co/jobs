@@ -48,7 +48,7 @@ We expect this role to be responsible for maintaining the code that we use to de
 - Native-level proficiency in spoken and written English
 - 6+ years as a DevOps engineer or similar (SRE, etc)
 - Significant professional experience with Ansible and Terraform
-
+- Fully remote, but able to work 11am - 1pm PT most week days
 
 What we look for:
 - Strong written and spoken communication skills

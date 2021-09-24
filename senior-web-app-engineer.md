@@ -28,7 +28,7 @@ Unlike other products in the market, we're built from the ground up to serve the
 - We work with your existing API so that data flows through your application before hitting your database
 - We allow for historical data sync
 - New data and updates to data is on a low latency basis (<2 minutes) so your customers' data is always up to date in your app
-- We expose all of the data that the APIs your integrating with offer
+- We expose all of the data offered by the APIs you're integrating with
 - We're fully white-labeled and give you direct access to the underlying API credentials (like OAuth tokens) so you can extend integrations beyond what we do
 
 ## About the Role

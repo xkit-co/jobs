@@ -37,7 +37,7 @@ We're hiring a Senior Web Application Engineer to join our team.
 
 Our back-end is in Elixir (using Phoenix framework) with a PostgreSQL database. It interfaces with our Typescript/React front-end through a JSON-based, REST-ish API.
 
-This role will be responsible for continuing to add features to our web app, primarily on the backe-end. Examples of features include:
+This role will be responsible for continuing to add features to our web app, primarily on the back-end. Examples of features include:
 - Enabling two-way sync to allow customers to push data back to integrations
 - Allowing end users to customize mappings for integrations
 - Adding new integrations to tools like Mailchimp, Stripe, and Pipedrive

@@ -20,15 +20,16 @@ We expect all members of our team to be:
 - skilled: highly skilled in their field; good critical thinkers and fast learners outside of it
 - workers: action-oriented, finishers, willing to contribute outside their area of expertise
 
-## About the Project
+## About the Product
 
-We're expanding the feature set offered by Xkit to help developers build integrations more easily than they can today. This new effort is based on our experience working with companies building integrations over the past year. We have a handful of alpha customers who are guiding our decision-making.
+Xkit lets developers add direct, native, embedded integrations to their SaaS app as easily as building a Zapier app. With one straightforward integration to Xkit, developers can add integrations to Salesforce, HubSpot, Zendesk, and others without writing any additional code. Most of the time, those integrations can even be added by non-engineers, like product managers and customer success managers.
 
-The scope of the project is quite large. It encompasses a significant data engineering effort as well as building out a serverless compute platform, and it offers the ability for non-technical people to build the bulk of these integrations.
-
-We plan to ship this project in the next 8 weeks, so we're looking for additional team members to help us with it.
-
-We hire almost exclusively through contracts like this, so if both you and we think it's a good fit, there are opportunities for more long-term engagements going forward.
+Unlike other products in the market, we're built from the ground up to serve the needs of developers and make sure we're a stable part of their infrastructure even as their integrations grow more complex. That's led to a few key decisions that differentiates us from the competition:
+- We work with your existing API so that data flows through your application before hitting your database
+- We allow for historical data sync
+- New data and updates to data is on a low latency basis (<2 minutes) so your customers' data is always up to date in your app
+- We expose all of the data that the APIs your integrating with offer
+- We're fully white-labeled and give you direct access to the underlying API credentials (like OAuth tokens) so you can extend integrations beyond what we do
 
 ## About the Role
 
@@ -55,11 +56,10 @@ There are currently no other full time front-end engineers on the team, so this 
 
 What we look for:
 - Strong written and spoken communication skills
-- Writes clean, easy to understand code
+- Writes [clear code](https://www.youtube.com/watch?v=6sNmJtoKDCo)
 - Highly productive: able to ship new features and refactors quickly
 - Good eye for design: we don't have a full-time designer, so this role will be responsible for a lot of the app's visual appearance, primarily by relying on [Evergreen](https://evergreen.segment.com) components
 - Customer oriented: thinks through features from the customers perspective and delivers with the customer in mind
-
 
 ### Hiring Process
 
@@ -67,5 +67,6 @@ What we look for:
 2. Complete a short online evaluation (~30 min)
 3. Submit relevant coding samples
 4. Video interview with our CEO
+5. 1-2 week (paid) working trial
 
-That's it! Part of why we like contract arrangements is that they can serve as an extended interview for both you and us. Interviews and other exercises are notoriously bad ways to evaluate candidates (and companies) and we think the best way is to just work together and see how it goes.
+We rely heavily on working trials to serve as an extended interview for both you and us. We've found they are the best way for us to evaluate candidates and for candidates to judge whether the fast-paced, high autonomy startup style of working is for them.

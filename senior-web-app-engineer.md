@@ -54,7 +54,7 @@ What we look for:
 - Strong written and spoken communication skills
 - Writes clean, easy to understand code
 - Highly productive: able to ship new features and refactors quickly
-- Customer oriented: thinks through features from the customers perspective and delivers with the customer in mind
+- Customer oriented: thinks through features from the customers' perspective and delivers with the customer in mind
 - Elixir (or other BEAM language) experience is preferred
 
 

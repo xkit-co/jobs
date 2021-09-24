@@ -1,4 +1,4 @@
-# Senior DevOps Engineer
+# Senior Web Application Engineer
 
 ## About Xkit
 
@@ -16,7 +16,7 @@ Examples of how these attitudes manifest in our day-to-day lives include:
 - One command deploys: changing code in production should be easy to do and easy to do right
 
 We expect all members of our team to be:
-- focused: on the customer and on our overarching business goals
+- focused: on the customer, on the product, and on the business
 - skilled: highly skilled in their field; good critical thinkers and fast learners outside of it
 - workers: action-oriented, finishers, willing to contribute outside their area of expertise
 
@@ -33,35 +33,37 @@ Unlike other products in the market, we're built from the ground up to serve the
 
 ## About the Role
 
-We're hiring a Senior DevOps Engineer to help us deliver our new project.
+We're hiring a Senior Web Application Engineer to join our team.
 
-Our codebase is organized in a single repository. Our primary application is in Elixir, with some front-end components in Typescript.
+Our back-end is in Elixir (using Phoenix framework) with a PostgreSQL database. It interfaces with our Typescript/React front-end through a JSON-based, REST-ish API.
 
-Almost all of our infrastructure is in AWS, primarily delivered through a few EC2 instances and RDS, although we do make some use of Elasticbeanstalk and Lambda.
+This role will be responsible for continuing to add features to our web app, primarily on the backe-end. Examples of features include:
+- Enabling two-way sync to allow customers to push data back to integrations
+- Allowing end users to customize mappings for integrations
+- Adding new integrations to tools like Mailchimp, Stripe, and Pipedrive
 
-We are huge proponents of Infrastructure-as-code. We believe that as much as possible of our operations should rely on written and reviewed code rather than ad hoc commands. All of our infrastructure is deployed through Ansible, although we plan to migrate to Terraform over time. Our entire deployment is in a single command with zero downtime, and we're able to deploy an entire infrastructure stack into a new AWS account with the same command.
-
-We expect this role to be responsible for maintaining the code that we use to deploy and repair infrastructure. We *do not* expect this role to be responsible for deploying and maintaining that same infrastructure. We have a deeply held belief that application developers write better code when they also deploy and maintain that code - we don't want code "thrown over the wall". That said, writing code to deploy infrastructure is quite different from writing application code, so we need someone on the team who is highly skilled in that area.
+While this role is primarily expected to contribute on the back-end, from time to time you'll also need to write and review Typescript/React code as well as Ansible and Terraform for deployment automation. We expect engineers on the team to do whatever it takes to ship, even if that means stepping a bit outside of their comfort zone and experience.
 
 ### Requirements
 
 - Native-level proficiency in spoken and written English
-- 6+ years as a DevOps engineer or similar (SRE, etc)
-- Significant professional experience with Ansible and Terraform
-- Fully remote, but able to work 11am - 1pm PT most week days
+- 6+ years as a professional software developer
+- Fully remote, but able to meet at 9am PT once a week with \~2 hours of overlap between 9am and 2pm PT most week days
 
 What we look for:
 - Strong written and spoken communication skills
-- Writes clean code using the dominant idioms of the given language
-- Highly productive: able to ship code that makes efficient and safe infrastructure changes quickly
-- Developer oriented: strives to empower the other developers on the team and make deploying their code easy
-- Customer oriented: thinks through the impacts that infrastructure changes have on the customer and works to minimize them
+- Writes clean, easy to understand code
+- Highly productive: able to ship new features and refactors quickly
+- Customer oriented: thinks through features from the customers perspective and delivers with the customer in mind
+- Elixir (or other BEAM language) experience is preferred
+
 
 ### Hiring Process
 
 1. Submit a work resume or CV to `jobs@[our main domain]`
-2. Submit relevant coding samples
-3. Video interview with our CEO
-4. 1-2 week (paid) working trial
+2. Complete a short online evaluation (~30 min)
+3. Submit relevant coding samples
+4. Video interview with our CEO
+5. 1-2 week (paid) working trial
 
 We rely heavily on working trials to serve as an extended interview for both you and us. We've found they are the best way for us to evaluate candidates and for candidates to judge whether the fast-paced, high autonomy startup style of working is for them.

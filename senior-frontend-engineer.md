@@ -56,7 +56,7 @@ There are currently no other full time front-end engineers on the team, so this 
 
 What we look for:
 - Strong written and spoken communication skills
-- Writes clean, easy to understand code
+- Writes [clear code](https://www.youtube.com/watch?v=6sNmJtoKDCo)
 - Highly productive: able to ship new features and refactors quickly
 - Good eye for design: we don't have a full-time designer, so this role will be responsible for a lot of the app's visual appearance, primarily by relying on [Evergreen](https://evergreen.segment.com) components
 - Customer oriented: thinks through features from the customers perspective and delivers with the customer in mind

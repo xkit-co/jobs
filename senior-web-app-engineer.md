@@ -52,7 +52,7 @@ While this role is primarily expected to contribute on the back-end, from time t
 
 What we look for:
 - Strong written and spoken communication skills
-- Writes clean, easy to understand code
+- Writes [clear code](https://www.youtube.com/watch?v=6sNmJtoKDCo)
 - Highly productive: able to ship new features and refactors quickly
 - Customer oriented: thinks through features from the customers' perspective and delivers with the customer in mind
 - Elixir (or other BEAM language) experience is preferred

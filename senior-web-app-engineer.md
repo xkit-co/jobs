@@ -24,7 +24,7 @@ We expect all members of our team to be:
 
 Xkit lets developers add direct, native, embedded integrations to their SaaS app as easily as building a Zapier app. With one straightforward integration to Xkit, developers can add integrations to Salesforce, HubSpot, Zendesk, and others without writing any additional code. Most of the time, those integrations can even be added by non-engineers, like product managers and customer success managers.
 
-Unlike other products in the market, we're built from the ground up to serve the needs of developers and make sure we're a stable part of their infrastructure even as their integrations grow more complex. That's led to a few key decisions that differentiates us from the competition:
+Unlike other products in the market, we're built from the ground up to serve the needs of developers and make sure we're a stable part of their infrastructure even as their integrations grow more complex. That's led to a few key decisions that differentiate us from the competition:
 - We work with your existing API so that data flows through your application before hitting your database
 - We allow for historical data sync
 - New data and updates to data is on a low latency basis (<2 minutes) so your customers' data is always up to date in your app

@@ -24,12 +24,13 @@ We expect all members of our team to be:
 
 ## Open Positions
 
+[Senior Web Application Engineer](./senior-web-app-engineer.md)
+- Remote (But with \~2 hours of overlap between 9am and 2pm PT most week days)
+
 [Senior Front-end Engineer](./senior-frontend-engineer.md)
-- Remote (But available 11am - 1pm PT most week days)
-- 4-8 week contract with possibility for full-time
-- 20-40 hours per week
+- Remote (But with \~2 hours of overlap between 9am and 2pm PT most week days)
 
 [Senior DevOps Engineer](./senior-devops-engineer.md)
-- Remote (But available 11am - 1pm PT most week days)
+- Remote (But with \~2 hours of overlap between 9am and 2pm PT most week days)
 - 4-8 week contract with possibility for full-time
 - 20 hours per week

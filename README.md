@@ -27,7 +27,7 @@ We expect all members of our team to be:
 [Senior Web Application Engineer](./senior-web-app-engineer.md)
 - Remote (But with \~2 hours of overlap between 9am and 2pm PT most week days)
 
-[Senior Front-end Engineer](./senior-frontend-engineer.md)
+[Senior UX Engineer](./senior-ux-engineer.md)
 - Remote (But with \~2 hours of overlap between 9am and 2pm PT most week days)
 
 [Senior DevOps Engineer](./senior-devops-engineer.md)

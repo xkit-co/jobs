@@ -56,6 +56,16 @@ That means a combination of "no code", "low code", and sometimes "yes please cod
 
 As our first UX engineer, this role will also be responsible for setting our design and front-end engineering foundation for the future of the product and the team.
 
+From the technical side, our front-end is:
+- Typescript
+- React
+- [Evergreen](https://evergreen.segment.com)
+
+And our back-end is:
+- Elixir
+- Phoenix
+- PostgreSQL
+
 ### Requirements
 
 - Native-level proficiency in spoken and written English
@@ -67,7 +77,7 @@ What we look for:
 - Customer oriented: thinks through features from the customer's perspective and delivers with the customer in mind
 - A "designer who codes": highly capable as a designer working within an existing design system/framework
 - Strong written and spoken communication skills
-- Writes [clear code](https://www.youtube.com/watch?v=6sNmJtoKDCo)
+- Writes [clear code](https://www.youtube.com/watch?v=6sNmJtoKDCo) (*the presentation deals with Elixir, but the concepts are applicable to writing any kind of code!)
 - Highly productive: able to ship new features and refactors quickly
 
 ### Hiring Process
